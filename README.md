@@ -1,9 +1,12 @@
 # Hi there 👋 Welcome to my GitHub!
 
-## 🛠 About Me
-I'm a passionate **backend developer** with a strong focus on building scalable and efficient web applications. My expertise revolves around **Java**, **Spring Framework**, and database systems, but I'm always eager to learn and adapt to new technologies. 
+## 🛠 About Me  
+I'm a motivated **backend development student** with a keen interest in building robust and efficient web applications. My primary focus is on **Java**, **Spring Framework**, and working with databases. As a quick learner, I am always open to exploring new tools and technologies.  
 
-In addition to backend development, I have experience working with **Android**, a touch of **C++**, and a good grasp of web development basics like **HTML5** and **CSS3**. 
+In addition to backend development, I have some experience with **Android development**, basic knowledge of **C++**, and a solid understanding of web development fundamentals like **HTML5** and **CSS3**.  
+
+I'm actively seeking opportunities to apply my skills, contribute to real-world projects, and grow as a developer through hands-on experience.  
+
 
 ---
 
@@ -24,7 +27,7 @@ In addition to backend development, I have experience working with **Android**, 
 ## 🌱 What I'm Learning
 - Advanced **Spring Boot** features (Security, Microservices, and Cloud)
 - **DevOps** tools like Docker and CI/CD workflows
-- Enhancing mobile app skills with **Jetpack Compose** on Android
+.....
 
 ---
 
@@ -46,10 +49,3 @@ I'm always excited to work on meaningful projects or share knowledge. Feel free 
 ## 📫 How to Reach Me
 - Email: huynhminhquan07072002.com
 - Facebook: [https://github.com/YourUsername](https://www.facebook.com/huynh.minh.quan.316358/)
-
----
-
-## ⚡ Fun Fact
-I believe in lifelong learning and enjoy tackling challenging problems—whether it’s debugging tricky code or exploring new frameworks. Outside of work, you’ll often find me reading tech blogs or experimenting with side projects.
-
-Thanks for visiting my profile! 😊
