@@ -22,19 +22,12 @@ I'm actively looking for an internship to apply my knowledge, gain practical exp
 
 ---
 
-## 🌱 What I'm Learning
-- Advanced **Spring Boot** features (Security, Microservices, and Cloud)
-- Docker** and how to deploy applications using containers  
-- Microservices** and building efficient distributed systems  
-- And .....
-
----
-
-## 👯 Let's Collaborate
-I'm always excited to work on meaningful projects or share knowledge. Feel free to reach out if you're interested in:
-- Backend development (Java, Spring)
-- Database design and optimization
-- API development or integration
+## 🌱 What I'm Learning  
+- Learning more about **Spring Boot** and its features  
+- Exploring **Docker** and how to use containers for deploying applications  
+- Getting started with **Microservices** and understanding their concepts  
+- Familiarizing myself with web-supporting tools like **Kubernetes** and **Cloud frameworks** for Java  
+.....
 
 ---
 
