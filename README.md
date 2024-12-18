@@ -1,13 +1,11 @@
 # Hi there 👋 Welcome to my GitHub!
 
 ## 🛠 About Me  
-I'm a motivated **backend development student** with a keen interest in building robust and efficient web applications. My primary focus is on **Java**, **Spring Framework**, and working with databases. As a quick learner, I am always open to exploring new tools and technologies.  
+I'm a motivated **backend development student** with an interest in building web applications. My main focus is on **Java**, **Spring Framework**, and working with databases. I enjoy learning new tools and technologies to improve my skills.  
 
-In addition to backend development, I have some experience with **Android development**, basic knowledge of **C++**, and a solid understanding of web development fundamentals like **HTML5** and **CSS3**.  
+In addition to backend development, I have some experience with **Android development**, basic knowledge of **C++**, and familiarity with web development technologies like **HTML5** and **CSS3**.  
 
-I'm actively seeking opportunities to apply my skills, contribute to real-world projects, and grow as a developer through hands-on experience.  
-
-
+I'm actively looking for an internship to apply my knowledge, gain practical experience, and grow as a developer.  
 ---
 
 ## 💻 Technologies & Tools
@@ -26,15 +24,9 @@ I'm actively seeking opportunities to apply my skills, contribute to real-world 
 
 ## 🌱 What I'm Learning
 - Advanced **Spring Boot** features (Security, Microservices, and Cloud)
-- **DevOps** tools like Docker and CI/CD workflows
-.....
-
----
-
-## 🔭 Current Projects
-- Building a **cosplay costume rental** website using Java and Spring Boot
-- Experimenting with **LiveCharts** in a desktop application
-- Exploring **AI integration** for a student management system
+- Docker** and how to deploy applications using containers  
+- Microservices** and building efficient distributed systems  
+- And .....
 
 ---
 
@@ -46,6 +38,7 @@ I'm always excited to work on meaningful projects or share knowledge. Feel free 
 
 ---
 
-## 📫 How to Reach Me
-- Email: huynhminhquan07072002.com
-- Facebook: [https://github.com/YourUsername](https://www.facebook.com/huynh.minh.quan.316358/)
+## 📫 How to Reach Me  
+- Email: huynhminhquan07072002@gmail.com  
+- Facebook: [Huynh Minh Quan](https://www.facebook.com/huynh.minh.quan.316358/)  
+
