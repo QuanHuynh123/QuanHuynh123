@@ -1,5 +1,18 @@
 ## Hi there 👋
-<a href="https://github.com/QuanHuynh123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHuynh123&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<h2 align="center">🛠 Technologies 🛠</h2>
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" alt="C++ logo" title="C++" height="25" /></span>
+&nbsp;
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="Microsoft SQL Server Badge" title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 <!--
 **QuanHuynh123/QuanHuynh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
